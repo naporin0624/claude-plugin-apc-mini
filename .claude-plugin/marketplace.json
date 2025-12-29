@@ -1,0 +1,34 @@
+{
+  "name": "apc-mini-marketplace",
+  "owner": {
+    "name": "napochaan"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for Akai APC Mini MK2 MIDI controller development",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "apc-mini-tools",
+      "source": "./",
+      "description": "Claude Code plugin for Akai APC Mini MK2 MIDI controller development. Provides MIDI protocol lookup, LED mapping guides, color palette references, and TypeScript code samples for LED control.",
+      "version": "1.0.0",
+      "author": {
+        "name": "napochaan"
+      },
+      "license": "MIT",
+      "keywords": [
+        "apc-mini",
+        "midi",
+        "led",
+        "akai",
+        "music",
+        "controller",
+        "typescript",
+        "nodejs",
+        "easymidi",
+        "julusian-midi"
+      ]
+    }
+  ]
+}
