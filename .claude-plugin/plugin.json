@@ -18,13 +18,6 @@
     "typescript",
     "nodejs"
   ],
-  "skills": [
-    "./skills/midi-protocol-lookup",
-    "./skills/led-mapping-guide",
-    "./skills/color-palette-ref",
-    "./skills/apc-code-samples"
-  ],
-  "agents": [
-    "./agents/apc-developer.md"
-  ]
+  "skills": "./skills/",
+  "agents": "./agents/"
 }
